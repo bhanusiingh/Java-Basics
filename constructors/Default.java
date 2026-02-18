@@ -19,6 +19,7 @@ public class Default {
         
         Default d2= new Default();
         d2.name="Bob";
+        
         d2.age=25;
         d2.city="Los Angeles";
         System.out.println("Name: " + d2.name);
