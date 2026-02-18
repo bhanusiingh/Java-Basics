@@ -8,7 +8,8 @@ public class StringClass {
         // Concatenation
         String result = str1 + " " + str2;
         System.out.println("Concatenated String: " + result);
-        
+        // Using String.concat method
+        String concatResult = str1.concat(" ").concat(str2);                                
         // Using StringBuilder for concatenation
         StringBuilder sb = new StringBuilder();
         sb.append(str1);

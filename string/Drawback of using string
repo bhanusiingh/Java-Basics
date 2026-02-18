@@ -1,0 +1,12 @@
+unnecessary memory wastage
+to overcame this we use StringBuilder.
+
+-----
+StringBuilder :- 
+it is a Class
+present in the "Lang" package
+import java.lang.StringBuilder;
+it is used to create mutable string objects.
+object of StringBuilder can be modified after it is created.
+StringBuilder class provides methods to manipulate the string such as append, insert, delete, reverse, etc.
+StringBuilder is more efficient than String when it comes to concatenation and modification of strings.
