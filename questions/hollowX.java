@@ -1,3 +1,4 @@
+package questions;
 public class hollowX {
     public static void main(String[] args) {
 

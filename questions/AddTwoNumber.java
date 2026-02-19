@@ -1,3 +1,4 @@
+package questions;
 //Take two numbers and print their sum.
 import java.util.Scanner;
 

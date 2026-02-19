@@ -1,3 +1,4 @@
+package questions;
 public class PlusPattern {
     public static void main(String[] args) {
 
