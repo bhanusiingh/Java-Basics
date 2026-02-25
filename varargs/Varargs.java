@@ -1,4 +1,4 @@
-//varags is going to be always a last parameter.
+//varargs is going to be always a last parameter.
 //we can only have one varargs parameter in a method.
 //why we need varargs? : - 
 //because we can pass any number of arguments to a method without having to overload it for different numbers of parameters.

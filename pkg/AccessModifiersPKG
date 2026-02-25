@@ -1,0 +1,10 @@
+
+
+| Access Modifier | Same Class | Same Package Subclass | Same Package Non-Subclass | Different Package Subclass | Different Package Non-Subclass |
+|-----------------|------------|-----------------------|---------------------------|----------------------------|--------------------------------|
+|  private        |     ✅     |          ❌           |            ❌             |            ❌              |              ❌                |
+|  default        |     ✅     |          ✅           |            ✅             |            ❌              |              ❌                |
+|  protected      |     ✅     |          ✅           |            ✅             |            ✅              |              ❌                |
+|  public         |     ✅     |          ✅           |            ✅             |            ✅              |              ✅                |
+
+This table represents Java Access Modifiers — it shows who can access a class member (field, method, constructor) depending on where it's being accessed from.

@@ -17,8 +17,14 @@ public class WrapperClass {
         //wrapper classes are used in collection framework
         //wrapper classes are used in autoboxing and unboxing
 
+        //what is boxing and unboxing and autoboxing and autounboxing?
+        //boxing is the process of converting a primitive data type into an object
+        //unboxing is the process of converting an object into a primitive data type
+        //autoboxing is the process of automatically converting a primitive data type into an object
+        //autounboxing is the process of automatically converting an object into a primitive data type, same as unboxing.
+
         // // Primitive data types
-        // int primitiveInt = 10;
+        // int primitiveInt =S 10;
         // double primitiveDouble = 20.5;
         // boolean primitiveBoolean = true;
 
